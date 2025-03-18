@@ -32,10 +32,12 @@ Solución: no encontré otra solución mas que volver a cargar la pagina
 
 1- Esto no lo tomo como un error ya que depende mucho de la cantidad de nombres que se introduzcan, ya que a menores participantes mas probable es que a los participantes les toque la persona reciproca,
    como se ve en la imagen de abajo, pero esto se soluciona al volver a dar al botón de ¨sortear amigo¨, así que traten de ser varios participantes o volver a dar al botón si les pasa.
-
    
-                                   ![image](https://github.com/user-attachments/assets/bebac6ee-db16-4197-8c5d-532a1fc72b32)
 
+                           ![image](https://github.com/user-attachments/assets/89d87bcd-635d-4834-8bd1-6041665a8381)
+
+
+               
 
 2- Aunque esta diseñado para amigo secreto, puede muy bien ser utilizado para hacer parejas en distintos juegos en el cual quieran las parejas al azar.
 
