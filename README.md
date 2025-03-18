@@ -34,7 +34,10 @@ Solución: no encontré otra solución mas que volver a cargar la pagina
    como se ve en la imagen de abajo, pero esto se soluciona al volver a dar al botón de ¨sortear amigo¨, así que traten de ser varios participantes o volver a dar al botón si les pasa.
    
 
-                           ![image](https://github.com/user-attachments/assets/89d87bcd-635d-4834-8bd1-6041665a8381)
+                         
+![424229487-bebac6ee-db16-4197-8c5d-532a1fc72b32](https://github.com/user-attachments/assets/bf195c13-a35b-40e8-8ecf-c86f7fb148cc)
+
+
 
 
                
